@@ -4,7 +4,7 @@
 
 
 
-- 👋 Hi, I’m @Code-Akhilsai
+- 👋 Hi, I’m Akhilsai
 - 👀 I’m interested in flutter app development and front-end developmemt 
 - 🌱 I’m currently learning react and redux
 - 📫 How to reach me codeakhilsai@gmail.com
