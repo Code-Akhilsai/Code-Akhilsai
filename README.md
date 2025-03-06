@@ -1,25 +1,27 @@
- ## Code-Akhilsai
+# 💫 About Me:
+👋 Hi, I’m Akhilsai<br>👀 I’m interested in front-end developmemt.<br>🌱 I’m currently learning react.<br>📫 How to reach me codeakhilsai@gmail.com
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yelati-akhil-sai-5b3434267/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/21188481/akhil?tab=profile) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codeakhilsai@gmail.com) 
 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Code-Akhilsai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Code-Akhilsai&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Akhilsai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Code-Akhilsai&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 👋 Hi, I’m Akhilsai
-- 👀 I’m interested in front-end developmemt.
-- 🌱 I’m currently learning react.
-- 📫 How to reach me codeakhilsai@gmail.com
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Technologies :
- 
- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Code-Akhilsai&limit=5&theme=jolly&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Code-Akhilsai&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-
-
-
-<!---
-Code-Akhilsai/Code-Akhilsai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
