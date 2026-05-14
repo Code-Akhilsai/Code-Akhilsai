@@ -1,5 +1,16 @@
 # 💫 About Me:
-👋 Hi, I’m Akhilsai<br>🎯 I’m a front-end developer passionate about blending AI and UI<br>💻 Currently working on AI-powered apps using React, Zustand, and Hugging Face APIs<br>🧠 Learning advanced React patterns and exploring AI x Frontend integration<br>📸 Built Lexicanvas – a text-to-image generator using AI<br>📫 Reach me at codeakhilsai@gmail.com
+👋 Hey, I'm Akhilsai
+
+MERN Stack Developer building AI-powered web apps with React.js ⚛️
+
+🤖 Passionate about Generative AI + Frontend Development
+🧠 Currently learning advanced React patterns and scalable web applications
+🌐 Love building responsive and modern UI experiences
+💡 Interested in AI integrations, real-time apps, and creative web experiences
+🚀 Consistently improving problem-solving and development skills
+
+📫 Email: [yelatiakhilsai@gmail.com](mailto:yelatiakhilsai@gmail.com)
+
 
 
 ## 🌐 Socials:
