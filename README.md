@@ -21,17 +21,29 @@ MERN Stack Developer building AI-powered web apps with React.js ⚛️<br>
  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Zustand](https://img.shields.io/static/v1?label=&message=Zustand&color=5E4429&style=flat&logo=Zustand&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Code-Akhilsai&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Akhilsai&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Code-Akhilsai\&theme=tokyonight\&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Akhilsai\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Code-Akhilsai\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)
+
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Code-Akhilsai&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=Code-Akhilsai\&theme=tokyonight\&no-frame=false\&no-bg=false\&margin-w=4)
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Code-Akhilsai\&theme=tokyo-night)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Code-Akhilsai\&theme=tokyonight\&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api?username=Code-Akhilsai\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Akhilsai\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Code-Akhilsai&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Code-Akhilsai&icon=9&color=1)](https://visitcount.itsvg.in)
