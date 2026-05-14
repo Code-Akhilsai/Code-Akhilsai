@@ -1,13 +1,13 @@
 # 💫 About Me:
 👋 Hey, I'm Akhilsai
 
-MERN Stack Developer building AI-powered web apps with React.js ⚛️
+MERN Stack Developer building AI-powered web apps with React.js ⚛️<br>
 
-🤖 Passionate about Generative AI + Frontend Development
-🧠 Currently learning advanced React patterns and scalable web applications
-🌐 Love building responsive and modern UI experiences
-💡 Interested in AI integrations, real-time apps, and creative web experiences
-🚀 Consistently improving problem-solving and development skills
+🤖 Passionate about Generative AI + Frontend Development<br>
+🧠 Currently learning advanced React patterns and scalable web applications<br>
+🌐 Love building responsive and modern UI experiences<br>
+💡 Interested in AI integrations, real-time apps, and creative web experiences<br>
+🚀 Consistently improving problem-solving and development skills<br>
 
 📫 Email: [yelatiakhilsai@gmail.com](mailto:yelatiakhilsai@gmail.com)
 
