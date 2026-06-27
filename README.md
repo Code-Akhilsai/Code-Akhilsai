@@ -27,10 +27,6 @@ MERN Stack Developer building AI-powered web apps with React.js ⚛️<br>
 ![](https://github-readme-stats.vercel.app/api?username=Code-Akhilsai\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)
 
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Code-Akhilsai\&theme=tokyonight\&no-frame=false\&no-bg=false\&margin-w=4)
-
 ## 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Code-Akhilsai\&theme=tokyo-night)
