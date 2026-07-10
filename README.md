@@ -22,22 +22,18 @@ MERN Stack Developer building AI-powered web apps with React.js ⚛️<br>
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Code-Akhilsai\&theme=tokyonight\&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Akhilsai\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Code-Akhilsai\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)
+
+![](https://streak-stats.vercel.app?user=Code-Akhilsai&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Akhilsai&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=Code-Akhilsai&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
 
 ## 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Code-Akhilsai\&theme=tokyo-night)
 
-## 📊 GitHub Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Code-Akhilsai\&theme=tokyonight\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api?username=Code-Akhilsai\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Akhilsai\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
