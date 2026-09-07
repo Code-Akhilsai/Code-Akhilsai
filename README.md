@@ -50,7 +50,7 @@ MERN Stack Developer building AI-powered web apps with React.js ⚛️<br>
 
 ## 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Code-Akhilsai\&theme=tokyo-night)
+![](https://github-readme-graph.vercel.app/graph?username=Code-Akhilsai\&theme=tokyo-night)
 
 
 ### ✍️ Random Dev Quote
